@@ -1,2 +1,2 @@
 # Checks
-A simple hash checker to see if both hashes are equal
+A simple hash checker to see if both hashes are equal.
